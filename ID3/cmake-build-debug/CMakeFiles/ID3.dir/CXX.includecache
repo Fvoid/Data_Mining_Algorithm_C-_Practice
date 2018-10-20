@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hvoid/Documents/courses/self_course/data_mining_practice/ID3/id_3_tool.cpp
+id_3_tool.hpp
+/home/hvoid/Documents/courses/self_course/data_mining_practice/ID3/id_3_tool.hpp
+
+/home/hvoid/Documents/courses/self_course/data_mining_practice/ID3/id_3_tool.hpp
+utils.hpp
+/home/hvoid/Documents/courses/self_course/data_mining_practice/ID3/utils.hpp
+fstream
+-
+string
+-
+vector
+-
+iostream
+-
+map
+-
+set
+-
+boost/algorithm/string.hpp
+-
+
+/home/hvoid/Documents/courses/self_course/data_mining_practice/ID3/utils.hpp
+
